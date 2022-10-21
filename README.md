@@ -11,13 +11,20 @@
 1、修复因账户密码错误以及未注册等原因导致登陆不上，影响后续账户执行问题
 
 2、修复因为打卡任务到期，影响后续账户执行问题
+
 3、修复因为没有打卡计划，影响后续账户执行问题
+
 4、修复user.json文件多了一个','导致运行失败问题（现在可加可不加）
+
 5、新增json5（在使用的时候请安装模块）
+
 6、新增logging（在使用的时候请安装模块）
+
 github原仓库地址：https://github.com/heiwa9/XYB_AutoSign_Revision
-喜欢请给Star
+
+
 修复代码仓库地址：https://github.com/luwenji/XYB_AutoSign_Revision
+
 喜欢请给Star！
 喜欢请给Star！
 喜欢请给Star！
